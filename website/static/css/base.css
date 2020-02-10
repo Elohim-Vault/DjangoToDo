@@ -1,0 +1,19 @@
+header{
+    height: 60px;
+    background-color: black;
+    font-size: 20pt;
+    font-family: Helvetica;
+    color: whitesmoke;
+}
+
+header h2{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+header button{
+    position: absolute;
+    left: 1210px;
+    top: 10px;
+}
+
